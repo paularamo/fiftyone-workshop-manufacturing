@@ -67,7 +67,6 @@ pip install open3d timm pandas
 Launch Jupyter:
 ```bash
 jupyter notebook
-Open any notebook from the list and run the cells.
 ```
 
 Open any notebook from the list and run the cells.
@@ -88,7 +87,8 @@ You can start with:
 
 ## 🙌 Acknowledgments
 
-- [MVTec Anomaly Detection Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad)  
+- [MVTec Anomaly Detection Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad)
+- [Anomalib](https://github.com/open-edge-platform/anomalib)
 - [Albumentations](https://albumentations.ai/)  
 - [FiftyOne](https://voxel51.com/fiftyone) by Voxel51  
 
